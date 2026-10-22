@@ -1,4 +1,0 @@
-1,Leonel De Armas,Piedra,Tijera,Victoria
-2,Sofia Mojica,Tijera,Tijera,Empate
-3,Gabriel Zacarias,Tijera,Piedra,Derrota
-4,Mateo Roberts,Piedra,Tijera,Victoria
